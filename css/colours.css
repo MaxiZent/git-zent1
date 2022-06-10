@@ -178,9 +178,10 @@
     font-size: 12px;
   }
   
-  /*-----MQ-----*/
-  @media screen and (max-width 800px:){
+  /*-----MQ-----
+  @media screen and (max-width 0px:){
     .header {
       flex-direction: column;
     }
   }
+  */
